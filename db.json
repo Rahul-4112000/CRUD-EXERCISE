@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "74fa",
+      "name": "RAHUL LAKHVARA",
+      "email": "rahullaxar786@gmail.com",
+      "age": 1,
+      "mobNum": 6353805737
+    },
+    {
+      "id": "202a",
+      "name": "Rohit giri",
+      "email": "rohitgiri444@gmail.com",
+      "age": "3",
+      "mobNum": "7600347360"
+    },
+    {
+      "id": "26c8",
+      "name": "bjjk",
+      "email": "Rahf@gamil.com",
+      "age": "88",
+      "mobNum": "7237232323"
+    }
+  ],
+  "credentials": [
+    {
+      "id": "810c",
+      "fullName": "Rahul Lakhvara",
+      "email": "rahullaxar786@gmail.com",
+      "password": "Rahul123"
+    },
+    {
+      "id": "d53c",
+      "fullName": "test",
+      "email": "Test@gmail.com",
+      "password": "Test1234"
+    },
+    {
+      "id": "46cf",
+      "fullName": "sahil",
+      "email": "sahil@gmail.com",
+      "password": "Sahil123"
+    },
+    {
+      "id": "5343",
+      "fullName": "Ashish",
+      "email": "ashish@gmail.com",
+      "password": "Ashish123"
+    }
+  ]
+}
